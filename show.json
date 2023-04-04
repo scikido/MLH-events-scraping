@@ -1,0 +1,1292 @@
+{
+    "Bitcamp": {
+        "date": "Apr 7th - 9th",
+        "type": "In-Person Only",
+        "location": " College Park, Maryland"
+    },
+    "Bon Hack\u00e9tit": {
+        "date": "Apr 7th - 9th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Electrothon 5.0": {
+        "date": "Apr 7th - 9th",
+        "type": "In-Person Only",
+        "location": " Hamirpur, India"
+    },
+    "Hardware Hackfest": {
+        "date": "Apr 7th - 9th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Wittyhacks 3.0": {
+        "date": "Apr 7th - 9th",
+        "type": "In-Person Only",
+        "location": " Indore, MP, India"
+    },
+    "Hack_NCState": {
+        "date": "Apr 8th - 9th",
+        "type": "In-Person Only",
+        "location": " Raleigh, North Carolina"
+    },
+    "Hack The League - Chapter 2": {
+        "date": "Apr 8th - 9th",
+        "type": "In-Person Only",
+        "location": " Jaipur, Rajasthan, India"
+    },
+    "Los Altos Hacks": {
+        "date": "Apr 8th - 9th",
+        "type": "In-Person Only",
+        "location": " Sunnyvale, California"
+    },
+    "WECEHacks": {
+        "date": "Apr 8th - 9th",
+        "type": "In-Person Only",
+        "location": " Urbana-Champaign, Illinois"
+    },
+    "CatHacks": {
+        "date": "Apr 14th - 15th",
+        "type": "In-Person Only",
+        "location": " Lexington, Kentucky"
+    },
+    "HackBattle: Mobile vs Web": {
+        "date": "Apr 14th - 16th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "HackKU": {
+        "date": "Apr 14th - 16th",
+        "type": "In-Person Only",
+        "location": " Lawrence, Kansas"
+    },
+    "PickHacks": {
+        "date": "Apr 14th - 16th",
+        "type": "In-Person Only",
+        "location": " Rolla, Missouri"
+    },
+    "All In Hackathon": {
+        "date": "Mar 25th - 26th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackDartmouth": {
+        "date": "Apr 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Hanover, New Hampshire"
+    },
+    "HackTCNJ": {
+        "date": "Apr 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Ewing, New Jersey"
+    },
+    "WildHacks": {
+        "date": "Apr 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Evanston, Illinois"
+    },
+    "ClimateHacks": {
+        "date": "Apr 21st - 23rd",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Design & Hack": {
+        "date": "Apr 21st - 23rd",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "LA Hacks": {
+        "date": "Apr 21st - 23rd",
+        "type": "In-Person Only",
+        "location": " Los Angeles, California"
+    },
+    "TechTogether Atlanta": {
+        "date": "Apr 22nd - 23rd",
+        "type": "In-Person Only",
+        "location": " Atlanta, Georgia"
+    },
+    "BeginnerHacks": {
+        "date": "May 19th - 21st",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "ChatHacks": {
+        "date": "Apr 28th - 30th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "DeerHacks": {
+        "date": "Apr 28th - 30th",
+        "type": "In-Person Only",
+        "location": " Mississauga, Ontario, Canada"
+    },
+    "Treasure Hacks": {
+        "date": "Apr 28th - 30th",
+        "type": "Digital Only",
+        "location": " Irvine, California"
+    },
+    "Citrus Hack": {
+        "date": "Apr 29th - 30th",
+        "type": "In-Person Only",
+        "location": " Riverside, California"
+    },
+    "DragonHacks": {
+        "date": "Apr 29th - 30th",
+        "type": "In-Person Only",
+        "location": " Philadelphia, Pennsylvania"
+    },
+    "GHW: Game Week": {
+        "date": "May 1st - 8th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "MetHacks": {
+        "date": "May 5th - 7th",
+        "type": "In-Person Only",
+        "location": " Toronto, Ontario, Canada"
+    },
+    "TechTogether Miami": {
+        "date": "May 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Miami, Florida"
+    },
+    "AI Hackfest": {
+        "date": "May 12th - 14th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack the Workplace": {
+        "date": "May 12th - 14th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "DragonHack": {
+        "date": "May 13th - 14th",
+        "type": "In-Person Only",
+        "location": " Ljubljana, Slovenia"
+    },
+    "NeighborhoodHacks": {
+        "date": "May 19th - 21st",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Stormhacks": {
+        "date": "May 20th - 21st",
+        "type": "In-Person Only",
+        "location": " Burnaby, British Columbia"
+    },
+    "Comedy Hackfest": {
+        "date": "May 26th - 28th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "HighSchoolHacks": {
+        "date": "May 26th - 28th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "GHW: Security Week": {
+        "date": "Jun 5th - 12th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hack The Runway": {
+        "date": "Jul 15th - 17th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "SelfieHacks II": {
+        "date": "Jul 15th - 17th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Data Day Grind III": {
+        "date": "Jul 22nd - 24th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hacky Birthday MLH": {
+        "date": "Jul 22nd - 24th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Backyard Hacks 3": {
+        "date": "Jul 29th - 31st",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hacking Birthday Bash": {
+        "date": "Jul 29th - 31st",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack With a Crew": {
+        "date": "Aug 5th - 7th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "KU HackFest 2022": {
+        "date": "Aug 5th - 7th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "WildHacks II": {
+        "date": "Aug 5th - 7th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "RDV Hacks": {
+        "date": "Aug 6th - 7th",
+        "type": "In-Person Only",
+        "location": " New York City, New York"
+    },
+    "AbracadabraHacks II": {
+        "date": "Aug 12th - 14th",
+        "type": "Digital Only",
+        "location": " North America Timezone, Online"
+    },
+    "Garuda Hacks 3.0": {
+        "date": "Aug 12th - 14th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Snakes and Hackers II": {
+        "date": "Aug 12th - 14th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "A Hack A Day 2": {
+        "date": "Aug 19th - 21st",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack'n Jill": {
+        "date": "Aug 19th - 21st",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hack the 6ix": {
+        "date": "Aug 19th - 21st",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hack JKLU": {
+        "date": "Aug 20th - 21st",
+        "type": "In-Person Only",
+        "location": " Jaipur, Rajasthan"
+    },
+    "EcoHacks": {
+        "date": "Sep 2nd - 4th",
+        "type": "Digital Only",
+        "location": " Fremont, California"
+    },
+    "Hack Girl Summer 3": {
+        "date": "Sep 2nd - 4th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack to School": {
+        "date": "Sep 2nd - 4th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "MesoHacks": {
+        "date": "Sep 2nd - 4th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "PennApps XXIII": {
+        "date": "Sep 2nd - 4th",
+        "type": "In-Person Only",
+        "location": " Philadelphia, Pennsylvania"
+    },
+    "MedHacks": {
+        "date": "Sep 9th - 11th",
+        "type": "In-Person Only",
+        "location": " Baltimore, Maryland"
+    },
+    "ShellHacks": {
+        "date": "Sep 9th - 11th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Miami, Florida"
+    },
+    "AutumnnHacks": {
+        "date": "Sep 10th - 12th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Global Hack Week September": {
+        "date": "Sep 10th - 17th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hackodisha 2.0": {
+        "date": "Sep 10th - 11th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "HackSMU IV": {
+        "date": "Sep 16th - 18th",
+        "type": "In-Person Only",
+        "location": " Dallas, Texas"
+    },
+    "Hack the North": {
+        "date": "Sep 16th - 18th",
+        "type": "In-Person Only",
+        "location": " Waterloo, Canada"
+    },
+    "Hacktoon 2": {
+        "date": "Sep 16th - 18th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hophacks": {
+        "date": "Sep 16th - 18th",
+        "type": "In-Person Only",
+        "location": " Baltimore, Maryland"
+    },
+    "Impractical Hackers 2": {
+        "date": "Sep 16th - 18th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack The Mountains 3.O": {
+        "date": "Sep 17th - 18th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Faridabad, Delhi"
+    },
+    "DivHacks": {
+        "date": "Sep 23rd - 24th",
+        "type": "In-Person Only",
+        "location": " New York City, New York"
+    },
+    "Hack And Wellness 2": {
+        "date": "Sep 23rd - 25th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackRice 12": {
+        "date": "Sep 23rd - 25th",
+        "type": "In-Person Only",
+        "location": " Houston, Texas"
+    },
+    "Paradigm Conf": {
+        "date": "Sep 23rd - 25th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "SBUHacks": {
+        "date": "Sep 23rd - 25th",
+        "type": "In-Person Only",
+        "location": " Stony Brook, New York"
+    },
+    "Teacher's Hack 2": {
+        "date": "Sep 23rd - 25th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "HackMTY": {
+        "date": "Sep 24th - 25th",
+        "type": "In-Person Only",
+        "location": " Monterrey, Mexico"
+    },
+    "Los Altos hacks VI": {
+        "date": "Sep 24th",
+        "type": "In-Person Only",
+        "location": " Sunnyvale, California"
+    },
+    "WWPHacks": {
+        "date": "Sep 24th - 25th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "DevJams": {
+        "date": "Sep 30th - Oct 2nd",
+        "type": "In-Person Only",
+        "location": " Vellore, India"
+    },
+    "Shark Hacks 4": {
+        "date": "Sep 30th - Oct 2nd",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Slam Dunk Hacks 2": {
+        "date": "Sep 30th - Oct 2nd",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "AIHacks4Good": {
+        "date": "Oct 1st - 2nd",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "hackUMBC": {
+        "date": "Oct 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Baltimore, Maryland"
+    },
+    "HackUTA": {
+        "date": "Oct 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Arlington, Texas"
+    },
+    "HackVSIT 4.0": {
+        "date": "Oct 1st - 2nd",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Delhi, India"
+    },
+    "MAIS Hacks": {
+        "date": "Oct 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Montreal, Quebec, Canada"
+    },
+    "The GoldenHack": {
+        "date": "Oct 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Waterloo, Canada"
+    },
+    "Hack And Snack": {
+        "date": "Oct 7th - 9th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "RoboHacks 2": {
+        "date": "Oct 7th - 9th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "TAMU Datathon": {
+        "date": "Oct 8th - 9th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "TIE U - Appathon": {
+        "date": "Oct 8th - 9th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "BeagleHacks": {
+        "date": "Oct 14th - 16th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "BigRed//Hacks": {
+        "date": "Oct 14th - 16th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Ithaca, New York"
+    },
+    "DandyHacks": {
+        "date": "Oct 14th - 16th",
+        "type": "In-Person Only",
+        "location": " Rochester, New York"
+    },
+    "Hackathon Ensenada": {
+        "date": "Oct 14th - 15th",
+        "type": "In-Person Only",
+        "location": " Ensenada, Mexico"
+    },
+    "Hackfest": {
+        "date": "Oct 14th - 16th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "HackHarvard 2022": {
+        "date": "Oct 14th - 16th",
+        "type": "In-Person Only",
+        "location": " Cambridge, Massachusetts"
+    },
+    "Hack the Valley": {
+        "date": "Oct 14th - 16th",
+        "type": "In-Person Only",
+        "location": " Toronto, Ontario"
+    },
+    "Hack WashU": {
+        "date": "Oct 14th - 16th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "YeeHaw Hacks 2": {
+        "date": "Oct 14th - 16th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Ada Hack": {
+        "date": "Oct 15th",
+        "type": "In-Person Only",
+        "location": " Edinburgh, United Kingdom"
+    },
+    "Cal Hacks": {
+        "date": "Oct 15th - 16th",
+        "type": "In-Person Only",
+        "location": " San Francisco, California"
+    },
+    "Girls Hoo Hack": {
+        "date": "Oct 15th - 16th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Charlottesville, Virginia"
+    },
+    "HackTX": {
+        "date": "Oct 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Austin , Texas"
+    },
+    "HACKUIOWA 2022": {
+        "date": "Oct 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Iowa City, Iowa"
+    },
+    "Kent Hack Enough": {
+        "date": "Oct 15th - 16th",
+        "type": "In-Person Only",
+        "location": " Kent, Ohio"
+    },
+    "SacHacks": {
+        "date": "Oct 15th - 16th",
+        "type": "Digital Only",
+        "location": " Sacramento, California"
+    },
+    "Technica": {
+        "date": "Oct 15th - 16th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " College Park, Maryland"
+    },
+    "DeepDiveHacks": {
+        "date": "Oct 21st - 23rd",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "HackGT 9": {
+        "date": "Oct 21st - 23rd",
+        "type": "In-Person Only",
+        "location": " Atlanta, Georgia"
+    },
+    "Hack or Treat 2": {
+        "date": "Oct 21st - 23rd",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Pitt Challenge": {
+        "date": "Oct 21st - 22nd",
+        "type": "In-Person Only",
+        "location": " Pittsburgh, Pennsylvania"
+    },
+    "UNT NSBEHack": {
+        "date": "Oct 21st - 22nd",
+        "type": "In-Person Only",
+        "location": " Denton, Texas"
+    },
+    "VandyHacks IX": {
+        "date": "Oct 21st - 23rd",
+        "type": "In-Person Only",
+        "location": " Nashville, Tennessee"
+    },
+    "DubHacks": {
+        "date": "Oct 22nd - 23rd",
+        "type": "In-Person Only",
+        "location": " Seattle, Washington"
+    },
+    "HackDuke": {
+        "date": "Oct 22nd - 23rd",
+        "type": "In-Person Only",
+        "location": " Durham, North Carolina"
+    },
+    "MakeUC": {
+        "date": "Oct 22nd - 23rd",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Cincinnati, Ohio"
+    },
+    "ROBOHackIT 2022": {
+        "date": "Oct 22nd - 23rd",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "Global Hack Week October": {
+        "date": "Oct 23rd - 30th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Agent: Hacker 2": {
+        "date": "Oct 28th - 31st",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hack from the Past 2": {
+        "date": "Oct 28th - 30th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "CodeRed Odyssey": {
+        "date": "Oct 29th - 30th",
+        "type": "In-Person Only",
+        "location": " Houston, Texas"
+    },
+    "HackTheMidlands 7.0": {
+        "date": "Oct 29th - 30th",
+        "type": "In-Person Only",
+        "location": " Birmingham, United Kingdom"
+    },
+    "TechTogether Boston": {
+        "date": "Oct 29th - 30th",
+        "type": "In-Person Only",
+        "location": " Boston, Massachusetts"
+    },
+    "ClockHacks": {
+        "date": "Nov 4th - 6th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hack-Cade 2": {
+        "date": "Nov 4th - 6th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackNC": {
+        "date": "Nov 4th - 6th",
+        "type": "In-Person Only",
+        "location": " Chapel Hill, North Carolina"
+    },
+    "Neighborhood Hacks 2": {
+        "date": "Nov 4th - 6th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Pursuit": {
+        "date": "Nov 4th - 5th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "TigerHacks": {
+        "date": "Nov 4th - 6th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Columbia, Missouri"
+    },
+    "YCP Hacks": {
+        "date": "Nov 4th - 6th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " York, Pennsylvania"
+    },
+    "CodeQuantum": {
+        "date": "Nov 5th",
+        "type": "In-Person Only",
+        "location": " San Antonio, Texas"
+    },
+    "DemonHacks": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Chicago, Illinois"
+    },
+    "hackCBS 5.0": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Delhi, IN"
+    },
+    "HackNJIT": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Newark, New Jersey"
+    },
+    "hackPHS": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Princeton, New Jersey"
+    },
+    "HackPSU": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " University Park, Pennsylvania"
+    },
+    "HackRPI": {
+        "date": "Nov 5th - 6th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Troy, New York"
+    },
+    "jacobsHack!": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Bremen, Germany"
+    },
+    "NewHacks 2022": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Toronto, Ontario"
+    },
+    "UB Hacking 2022": {
+        "date": "Nov 5th - 6th",
+        "type": "In-Person Only",
+        "location": " Amherst, New York"
+    },
+    "Do-Re-Mi Hacks 3": {
+        "date": "Nov 11th - 13th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack2Educate": {
+        "date": "Nov 11th - 13th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hack K-State": {
+        "date": "Nov 11th - 13th",
+        "type": "In-Person Only",
+        "location": " Manhattan, Kansas"
+    },
+    "HackPrinceton": {
+        "date": "Mar 31st - Apr 2nd",
+        "type": "In-Person Only",
+        "location": " Princeton, New Jersey"
+    },
+    "HackUMass": {
+        "date": "Nov 11th - 13th",
+        "type": "In-Person Only",
+        "location": " Amherst, Massachusetts"
+    },
+    "HarvestHacks": {
+        "date": "Nov 11th - 13th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "REVA Hack 2022": {
+        "date": "Nov 11th - 13th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Bengaluru, Karnataka"
+    },
+    "VTHacks X": {
+        "date": "Nov 11th - 13th",
+        "type": "In-Person Only",
+        "location": " Blacksburg, Virginia"
+    },
+    "BostonHacks 2022": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Boston, Massachusetts"
+    },
+    "Concode": {
+        "date": "Nov 12th - 13th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Datathon FME": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Barcelona, Spain"
+    },
+    "GreatUniHack": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Manchester, United Kingdom"
+    },
+    "HackDown 2022": {
+        "date": "Nov 12th - 13th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Ewing, New Jersey"
+    },
+    "HackHolyoke 2022": {
+        "date": "Nov 12th - 13th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "HackUTD IX": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Dallas, Texas"
+    },
+    "OxfordHack": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Oxford, United Kingdom"
+    },
+    "WHACK": {
+        "date": "Nov 12th - 13th",
+        "type": "In-Person Only",
+        "location": " Wellesley, Massachusetts"
+    },
+    "Hackcoming 2": {
+        "date": "Nov 18th - 20th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hacks and Crafts 2": {
+        "date": "Nov 18th - 20th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack Western 9": {
+        "date": "Nov 18th - 20th",
+        "type": "In-Person Only",
+        "location": " London, Ontario"
+    },
+    "DurHack 2022.2": {
+        "date": "Nov 19th - 20th",
+        "type": "In-Person Only",
+        "location": " Durham, United Kingdom"
+    },
+    "Hack Brunel": {
+        "date": "Nov 19th - 20th",
+        "type": "In-Person Only",
+        "location": " London, United Kingdom"
+    },
+    "MetroHacks": {
+        "date": "Nov 19th - 20th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "Reconnect-Ed": {
+        "date": "Nov 19th - 20th",
+        "type": "Digital Only",
+        "location": " Global, Everywhere"
+    },
+    "UniHack": {
+        "date": "Nov 24th - 27th",
+        "type": "In-Person Only",
+        "location": " Timi\u0219oara, Romania"
+    },
+    "CentuRITon": {
+        "date": "Nov 25th - 27th",
+        "type": "In-Person Only",
+        "location": " Bengaluru, Karnataka"
+    },
+    "Give Back Hacks 3": {
+        "date": "Nov 25th - 27th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Thehacktrical 2": {
+        "date": "Nov 25th - 27th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "BCHacks 4.0": {
+        "date": "Nov 26th - 27th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Kelowna, Canada"
+    },
+    "FinHack 2": {
+        "date": "Dec 2nd - 4th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "SustainHacks": {
+        "date": "Dec 2nd - 4th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Version Beta 5.0": {
+        "date": "Dec 2nd - 4th",
+        "type": "In-Person Only",
+        "location": " Bhopal, Madhya Pradesh"
+    },
+    "Global Hack Week December": {
+        "date": "Dec 4th - 11th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "EduHacks": {
+        "date": "Dec 9th - 11th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hack-on-chain": {
+        "date": "Dec 9th - 11th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "TechEden 2.0": {
+        "date": "Dec 10th - 11th",
+        "type": "In-Person Only",
+        "location": " Vijaywada, Andhra Pradesh"
+    },
+    "AI Hacks": {
+        "date": "Dec 16th - 18th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Support-a-thon": {
+        "date": "Dec 16th - 18th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Design-a-thon": {
+        "date": "Dec 23rd - 25th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hacky Winterland 2": {
+        "date": "Dec 23rd - 25th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hacky New Year!": {
+        "date": "Dec 30th - Jan 1st",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "See You Later, Hackulator 2": {
+        "date": "Dec 30th - Jan 1st",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackNITR 4.0": {
+        "date": "Jan 6th - 8th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "HackED": {
+        "date": "Jan 7th - 8th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Alberta, Canada"
+    },
+    "HackFRee": {
+        "date": "Jan 14th - 15th",
+        "type": "In-Person Only",
+        "location": " Manalapan, New Jersey"
+    },
+    "Rose Hack": {
+        "date": "Jan 14th - 15th",
+        "type": "In-Person Only",
+        "location": " Riverside, California"
+    },
+    "BoilerMake X": {
+        "date": "Jan 20th - 22nd",
+        "type": "In-Person Only",
+        "location": " West Lafayette, Indiana"
+    },
+    "CivicHacks": {
+        "date": "Jan 20th - 22nd",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackFit 2": {
+        "date": "Jan 20th - 22nd",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "ConUHacks VII": {
+        "date": "Jan 21st - 22nd",
+        "type": "In-Person Only",
+        "location": " Montreal, Quebec"
+    },
+    "nwHacks 2023": {
+        "date": "Jan 21st - 22nd",
+        "type": "In-Person Only",
+        "location": " Vancouver, Canada"
+    },
+    "Hack-commerce": {
+        "date": "Jan 27th - 29th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hackrithmitic 2": {
+        "date": "Jan 27th - 29th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hoya Hacks": {
+        "date": "Jan 27th - 29th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Washington, DC"
+    },
+    "QHacks": {
+        "date": "Jan 27th - 29th",
+        "type": "In-Person Only",
+        "location": " Ontario, Canada"
+    },
+    "QWER Hacks": {
+        "date": "Jan 27th - 29th",
+        "type": "In-Person Only",
+        "location": " Los Angeles, California"
+    },
+    "[email\u00a0protected]": {
+        "date": "Mar 3rd - 5th",
+        "type": "In-Person Only",
+        "location": " Stony Brook, New York"
+    },
+    "hackTAMS": {
+        "date": "Jan 28th - 29th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Denton, Texas"
+    },
+    "McHacks": {
+        "date": "Jan 28th - 29th",
+        "type": "In-Person Only",
+        "location": " Montreal, Quebec"
+    },
+    "SpartaHack": {
+        "date": "Jan 28th - 29th",
+        "type": "In-Person Only",
+        "location": " East Lansing, MI"
+    },
+    "TAMUhack": {
+        "date": "Jan 28th - 29th",
+        "type": "In-Person Only",
+        "location": " College Station, Texas"
+    },
+    "Black Wings Hacks": {
+        "date": "Feb 3rd - 5th",
+        "type": "Digital Only",
+        "location": " Durham, North Carolina"
+    },
+    "CruzHacks": {
+        "date": "Feb 3rd - 5th",
+        "type": "In-Person Only",
+        "location": " Santa Cruz, California"
+    },
+    "Hack-ccelerate": {
+        "date": "Feb 3rd - 5th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack for the Future": {
+        "date": "Feb 3rd - 5th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Hack This Fall 3.0": {
+        "date": "Feb 3rd - 5th",
+        "type": "In-Person Only",
+        "location": " Gandhinagar GJ, India"
+    },
+    "UGAHacks 8": {
+        "date": "Feb 3rd - 5th",
+        "type": "In-Person Only",
+        "location": " Athens, Georgia"
+    },
+    "CUHackit": {
+        "date": "Feb 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Clemson, South Carolina"
+    },
+    "HackViolet": {
+        "date": "Feb 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Blacksburg, Virginia"
+    },
+    "PolyHacks": {
+        "date": "Feb 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Montreal, Quebec"
+    },
+    "Royal Hackaway v6": {
+        "date": "Feb 4th - 5th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Egham, England"
+    },
+    "GHW: AI/ML Week": {
+        "date": "Feb 6th - 13th",
+        "type": "Digital Only",
+        "location": " Everywhere, Online"
+    },
+    "Hacklytics 2023": {
+        "date": "Feb 10th - 12th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Atlanta, Georgia"
+    },
+    "Hackville 2023": {
+        "date": "Feb 10th - 12th",
+        "type": "In-Person Only",
+        "location": " Mississauga, ON, Canada"
+    },
+    "uOttaHack V": {
+        "date": "Feb 10th - 12th",
+        "type": "In-Person Only",
+        "location": " Ottawa, Canada"
+    },
+    "AuburnHacks": {
+        "date": "Feb 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Auburn, Alabama"
+    },
+    "Frontera Hacks": {
+        "date": "Feb 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Weslaco, TX"
+    },
+    "HackHERS": {
+        "date": "Feb 11th - 12th",
+        "type": "In-Person Only",
+        "location": " New Brunswick, New Jersey"
+    },
+    "Pearl Hacks": {
+        "date": "Feb 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Chapel Hill, NC"
+    },
+    "WEHack": {
+        "date": "Feb 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Richardson, Texas"
+    },
+    "ElleHacks": {
+        "date": "Feb 17th - 19th",
+        "type": "In-Person Only",
+        "location": " Toronto, Canada"
+    },
+    "MHacks 15": {
+        "date": "Feb 17th - 19th",
+        "type": "Digital Only",
+        "location": " Everywhere, Worldwide"
+    },
+    "TransportHacks": {
+        "date": "Feb 17th - 19th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "Work-a-thon": {
+        "date": "Feb 17th - 19th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "CrimsonCode Hackathon": {
+        "date": "Feb 18th - 19th",
+        "type": "In-Person Only",
+        "location": " Pullman, Washington"
+    },
+    "HackNYU": {
+        "date": "Feb 18th - 19th",
+        "type": "In-Person Only",
+        "location": " Brooklyn, New York"
+    },
+    "HackSussex": {
+        "date": "Feb 18th - 19th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Brighton And Hove, United Kingdom"
+    },
+    "Hack Around the World 2": {
+        "date": "Feb 24th - 26th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "WhiskerHacks": {
+        "date": "Feb 24th - 26th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "AthenaHacks": {
+        "date": "Feb 25th - 26th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Los Angelos, California"
+    },
+    "BrickHack 9": {
+        "date": "Feb 25th - 26th",
+        "type": "In-Person Only",
+        "location": " Rochester, NY"
+    },
+    "Diversion 2k23": {
+        "date": "Feb 25th - 26th",
+        "type": "In-Person Only",
+        "location": " Kolkata, West Bengal"
+    },
+    "RevolutionUC": {
+        "date": "Feb 25th - 26th",
+        "type": "In-Person Only",
+        "location": " Cincinnatti, Ohio"
+    },
+    "HackForCreators": {
+        "date": "Mar 3rd - 5th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "SpaceAthon": {
+        "date": "Mar 3rd - 5th",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "HackHound": {
+        "date": "Mar 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Ghaziabad, Delhi NCR"
+    },
+    "HackPalachia": {
+        "date": "Mar 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Athens, Ohio"
+    },
+    "Hack The Burgh": {
+        "date": "Mar 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Edinburgh, Scotland"
+    },
+    "MadHacks": {
+        "date": "Mar 4th - 5th",
+        "type": "In-Person Only",
+        "location": " Madison, Wisconsin"
+    },
+    "WiCHacks": {
+        "date": "Mar 4th - 5th",
+        "type": "Hybrid, In-Person Focus",
+        "location": " Rochester, New York"
+    },
+    "GHW: Social Good Week": {
+        "date": "Mar 6th - 13th",
+        "type": "Digital Only",
+        "location": " Everywhere, Online"
+    },
+    "cmd-f": {
+        "date": "Mar 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Vancouver, British Columbia"
+    },
+    "Hack Dearborn": {
+        "date": "Mar 11th - 12th",
+        "type": "In-Person Only",
+        "location": " Dearborn, MI"
+    },
+    "Fashion Tech Hackathon 2023": {
+        "date": "Mar 17th - 19th",
+        "type": "In-Person Only",
+        "location": " Kent, Ohio"
+    },
+    "HackThePlan": {
+        "date": "Mar 24th - 26th",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack36": {
+        "date": "Mar 25th - 26th",
+        "type": "Hybrid, Digital Focus",
+        "location": " Everywhere, Worldwide"
+    },
+    "Hackabull": {
+        "date": "Mar 25th - 26th",
+        "type": "In-Person Only",
+        "location": " Tampa, Florida"
+    },
+    "HooHacks": {
+        "date": "Mar 25th - 26th",
+        "type": "In-Person Only",
+        "location": " Charlottesville, Virginia"
+    },
+    "RowdyHacks VIII": {
+        "date": "Mar 25th - 26th",
+        "type": "In-Person Only",
+        "location": " San Antonio, Texas"
+    },
+    "MapHacks 2": {
+        "date": "Mar 31st - Apr 2nd",
+        "type": "Digital Only",
+        "location": " North American Timezone, Online"
+    },
+    "OpenHacks": {
+        "date": "Mar 31st - Apr 2nd",
+        "type": "Digital Only",
+        "location": " APAC Timezone, Online"
+    },
+    "Hack Kosice": {
+        "date": "Apr 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Kosice, Slovakia"
+    },
+    "Hacklahoma": {
+        "date": "Apr 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Norman, Oklahoma"
+    },
+    "MorganHacks": {
+        "date": "Apr 1st - 2nd",
+        "type": "In-Person Only",
+        "location": " Baltimore, Maryland"
+    },
+    "GHW: API Week": {
+        "date": "Apr 3rd - 10th",
+        "type": "Digital Only",
+        "location": " Everywhere, Online"
+    }
+}
